@@ -1,3 +1,7 @@
+# 00 homework_1
+
+This project is a basic mock-business webpage, written in HTML5 and CSS.  The goal (as stated below) was to inspect the code presented to us and find ways to improve it.  While working through the project, semantic HTML elements were used to replace old elements, a more friendly title was incorporated and the CSS was condensed and reorganized to match the flow of the HTML. 
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
